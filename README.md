@@ -1,5 +1,5 @@
 # Game
-Water Snake Gun is a fun, quick-paced game where players choose between water, snake, and gun to compete in a rock-paper-scissors-style battle. Each choice has its own strengths—water beats gun, gun beats snake, and snake beats water. The game is easy to learn but challenging to master, making it great for fast and exciting matches!
+(1) Water Snake Gun is a fun, quick-paced game where players choose between water, snake, and gun to compete in a rock-paper-scissors-style battle. Each choice has its own strengths—water beats gun, gun beats snake, and snake beats water. The game is easy to learn but challenging to master, making it great for fast and exciting matches!
 
 ➡️ How to Play
 Two players (or a player vs. computer) choose Water, Snake, or Gun at the same time.
@@ -16,7 +16,7 @@ If both players choose the same option, it’s a draw.
 ____________________________________________________________________________________________________________________________________________________________________________________________________________________
 
 🎯 Guess the Number (Tkinter Edition)
-Guess the Number is a simple yet addictive number guessing game built with Python's Tkinter GUI library. Players try to guess a randomly generated number within a specified range, receiving hints after each attempt. The game offers a sleek interface and instant feedback, making it perfect for quick play sessions or beginner Python learners.
+(2) Guess the Number is a simple yet addictive number guessing game built with Python's Tkinter GUI library. Players try to guess a randomly generated number within a specified range, receiving hints after each attempt. The game offers a sleek interface and instant feedback, making it perfect for quick play sessions or beginner Python learners.
 
 🕹️ How to Play
 - Launch the game window.
