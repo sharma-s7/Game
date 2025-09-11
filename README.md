@@ -15,7 +15,8 @@ Snake beats Water (snake drinks water).
 If both players choose the same option, it’s a draw.
 ____________________________________________________________________________________________________________________________________________________________________________________________________________________
 
-🎯 Guess the Number (Tkinter Edition)
+# 🎯 Guess the Number (Tkinter Edition)
+
 (2) Guess the Number is a simple yet addictive number guessing game built with Python's Tkinter GUI library. Players try to guess a randomly generated number within a specified range, receiving hints after each attempt. The game offers a sleek interface and instant feedback, making it perfect for quick play sessions or beginner Python learners.
 
 🕹️ How to Play
