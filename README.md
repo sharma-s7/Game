@@ -38,8 +38,7 @@ ________________________________________________________________________________
 🛠️ Requirements
 - Python 3.x
 - Tkinter (usually included with Python)
-- To run the game:
-bash : python guess_the_number.py
+
 
 
 
